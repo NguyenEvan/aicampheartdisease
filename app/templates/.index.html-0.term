@@ -1,0 +1,781 @@
+(base) ]0;~/heartdiseasepredictor/app/templates[01;34m~/heartdiseasepredictor/app/templates[00m$ pyh[Kthon3 index.html[K[K[K[K[K[K[Kex.html
+  File "/projects/789aa3e5-de8c-43a9-9498-6199f18e94f7/heartdiseasepredictor/app/templates/index.html", line 1
+    <!DOCTYPE html>
+    ^
+SyntaxError: invalid syntax
+(base) ]0;~/heartdiseasepredictor/app/templates[01;34m~/heartdiseasepredictor/app/templates[00m$ python3 main.py
+python3: can't open file '/projects/789aa3e5-de8c-43a9-9498-6199f18e94f7/heartdiseasepredictor/app/templates/main.py': [Errno 2] No such file or directory
+(base) ]0;~/heartdiseasepredictor/app/templates[01;34m~/heartdiseasepredictor/app/templates[00m$ [K(base) ]0;~/heartdiseasepredictor/app/templates[01;34m~/heartdiseasepredictor/app/templates[00m$ python 3 main.py
+python: can't open file '/projects/789aa3e5-de8c-43a9-9498-6199f18e94f7/heartdiseasepredictor/app/templates/3': [Errno 2] No such file or directory
+(base) ]0;~/heartdiseasepredictor/app/templates[01;34m~/heartdiseasepredictor/app/templates[00m$ stop
+bash: stop: command not found
+(base) ]0;~/heartdiseasepredictor/app/templates[01;34m~/heartdiseasepredictor/app/templates[00m$ ^C
+(base) ]0;~/heartdiseasepredictor/app/templates[01;34m~/heartdiseasepredictor/app/templates[00m$ python3 main.py
+python3: can't open file '/projects/789aa3e5-de8c-43a9-9498-6199f18e94f7/heartdiseasepredictor/app/templates/main.py': [Errno 2] No such file or directory
+(base) ]0;~/heartdiseasepredictor/app/templates[01;34m~/heartdiseasepredictor/app/templates[00m$ python [K(base) ]0;~/heartdiseasepredictor/app/templates[01;34m~/heartdiseasepredictor/app/templates[00m$ python [K3 ind[K[K[Kmain.py
+python3: can't open file '/projects/789aa3e5-de8c-43a9-9498-6199f18e94f7/heartdiseasepredictor/app/templates/main.py': [Errno 2] No such file or directory
+(base) ]0;~/heartdiseasepredictor/app/templates[01;34m~/heartdiseasepredictor/app/templates[00m$ cd ..
+(base) ]0;~/heartdiseasepredictor/app[01;34m~/heartdiseasepredictor/app[00m$ cd ..
+(base) ]0;~/heartdiseasepredictor[01;34m~/heartdiseasepredictor[00m$ cd ..
+(base) ]0;~[01;34m~[00m$ python [K3 a[Kmain.py
+python3: can't open file '/projects/789aa3e5-de8c-43a9-9498-6199f18e94f7/main.py': [Errno 2] No such file or directory
+(base) ]0;~[01;34m~[00m$ main.py
+bash: main.py: command not found
+(base) ]0;~[01;34m~[00m$ cd heartdiseasepredictor
+(base) ]0;~/heartdiseasepredictor[01;34m~/heartdiseasepredictor[00m$ python [K [K3 main.py
+python3: can't open file '/projects/789aa3e5-de8c-43a9-9498-6199f18e94f7/heartdiseasepredictor/main.py': [Errno 2] No such file or directory
+(base) ]0;~/heartdiseasepredictor[01;34m~/heartdiseasepredictor[00m$ cd app
+(base) ]0;~/heartdiseasepredictor/app[01;34m~/heartdiseasepredictor/app[00m$ python [K3 main.py
+Try to open
+
+    https://cocalc21.ai-camp.dev//789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/
+
+
+ * Serving Flask app "main" (lazy loading)
+ * Environment: production
+[31m   WARNING: This is a development server. Do not use it in a production deployment.[0m
+[2m   Use a production WSGI server instead.[0m
+ * Debug mode: on
+ * Running on http://0.0.0.0:12345/ (Press CTRL+C to quit)
+ * Restarting with stat
+Try to open
+
+    https://cocalc21.ai-camp.dev//789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/
+
+
+ * Debugger is active!
+ * Debugger PIN: 289-805-344
+127.0.0.1 - - [14/Jul/2022 20:19:05] "[37mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/ HTTP/1.1[0m" 200 -
+127.0.0.1 - - [14/Jul/2022 20:19:06] "[37mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/static/css/styles.css HTTP/1.1[0m" 200 -
+127.0.0.1 - - [14/Jul/2022 20:19:06] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/js/scripts.js HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 20:19:06] "[37mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/static/assets/img/ml_models/ScatterplotsVisualizations.html HTTP/1.1[0m" 200 -
+127.0.0.1 - - [14/Jul/2022 20:19:06] "[37mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/static/assets/img/ml_models/Heatmap.html HTTP/1.1[0m" 200 -
+127.0.0.1 - - [14/Jul/2022 20:19:06] "[37mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/static/assets/img/ml_models/rfc_fig2.html HTTP/1.1[0m" 200 -
+127.0.0.1 - - [14/Jul/2022 20:19:06] "[37mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/static/assets/img/ml_models/xgb_cm.html HTTP/1.1[0m" 200 -
+127.0.0.1 - - [14/Jul/2022 20:19:06] "[37mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/static/assets/img/ai_camp_logo.png HTTP/1.1[0m" 200 -
+127.0.0.1 - - [14/Jul/2022 20:19:06] "[37mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/static/assets/img/ml_models/KNN_file.html HTTP/1.1[0m" 200 -
+127.0.0.1 - - [14/Jul/2022 20:19:06] "[37mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/static/assets/img/heart_disease_background.jpg HTTP/1.1[0m" 200 -
+127.0.0.1 - - [14/Jul/2022 20:19:06] "[37mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/static/assets/img/Histofig.jpg HTTP/1.1[0m" 200 -
+127.0.0.1 - - [14/Jul/2022 20:19:06] "[37mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/static/assets/img/ml_models/xgb_ex_vis.png HTTP/1.1[0m" 200 -
+127.0.0.1 - - [14/Jul/2022 20:19:06] "[37mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/static/assets/img/team/20220506_120252.jpg HTTP/1.1[0m" 200 -
+127.0.0.1 - - [14/Jul/2022 20:19:06] "[37mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/static/assets/img/team/vincentteampic.jpg HTTP/1.1[0m" 200 -
+127.0.0.1 - - [14/Jul/2022 20:19:07] "[37mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/static/assets/img/team/hikari.jpg HTTP/1.1[0m" 200 -
+127.0.0.1 - - [14/Jul/2022 20:19:07] "[37mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/static/assets/img/team/Team%20Pic%20-%20Danh.jpg HTTP/1.1[0m" 200 -
+127.0.0.1 - - [14/Jul/2022 20:19:07] "[37mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/static/assets/img/team/sophia_headshot.png HTTP/1.1[0m" 200 -
+127.0.0.1 - - [14/Jul/2022 20:19:07] "[37mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/static/assets/img/team/evan.jpg HTTP/1.1[0m" 200 -
+127.0.0.1 - - [14/Jul/2022 20:19:07] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/2.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 20:19:07] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/1.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 20:19:07] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/close-icon.svg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 20:19:07] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/3.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 20:19:07] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/4.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 20:19:07] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/5.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 20:19:07] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/6.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 20:19:07] "[37mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/static/assets/img/map-image.png HTTP/1.1[0m" 200 -
+127.0.0.1 - - [14/Jul/2022 20:19:09] "[37mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/static/assets/favicon.ico HTTP/1.1[0m" 200 -
+127.0.0.1 - - [14/Jul/2022 20:21:10] "[37mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/ HTTP/1.1[0m" 200 -
+127.0.0.1 - - [14/Jul/2022 20:21:10] "[37mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/static/css/styles.css HTTP/1.1[0m" 200 -
+127.0.0.1 - - [14/Jul/2022 20:21:10] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/js/scripts.js HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 20:21:10] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/1.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 20:21:10] "[37mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/static/assets/img/team/evan.jpg HTTP/1.1[0m" 200 -
+127.0.0.1 - - [14/Jul/2022 20:21:10] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/3.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 20:21:10] "[37mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/static/assets/img/team/Team%20Pic%20-%20Danh.jpg HTTP/1.1[0m" 200 -
+127.0.0.1 - - [14/Jul/2022 20:21:10] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/close-icon.svg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 20:21:10] "[37mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/static/assets/img/team/hikari.jpg HTTP/1.1[0m" 200 -
+127.0.0.1 - - [14/Jul/2022 20:21:10] "[37mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/static/assets/img/ml_models/Heatmap.html HTTP/1.1[0m" 200 -
+127.0.0.1 - - [14/Jul/2022 20:21:10] "[37mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/static/assets/img/ml_models/rfc_fig2.html HTTP/1.1[0m" 200 -
+127.0.0.1 - - [14/Jul/2022 20:21:10] "[37mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/static/assets/img/ml_models/ScatterplotsVisualizations.html HTTP/1.1[0m" 200 -
+127.0.0.1 - - [14/Jul/2022 20:21:10] "[37mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/static/assets/img/ml_models/xgb_cm.html HTTP/1.1[0m" 200 -
+127.0.0.1 - - [14/Jul/2022 20:21:10] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/js/scripts.js HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 20:21:10] "[37mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/static/assets/img/heart_disease_background.jpg HTTP/1.1[0m" 200 -
+127.0.0.1 - - [14/Jul/2022 20:21:11] "[37mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/static/assets/img/ml_models/KNN_file.html HTTP/1.1[0m" 200 -
+127.0.0.1 - - [14/Jul/2022 20:21:11] "[37mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/static/assets/img/ai_camp_logo.png HTTP/1.1[0m" 200 -
+127.0.0.1 - - [14/Jul/2022 20:21:11] "[37mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/static/assets/img/Histofig.jpg HTTP/1.1[0m" 200 -
+127.0.0.1 - - [14/Jul/2022 20:21:11] "[37mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/static/assets/img/ml_models/xgb_ex_vis.png HTTP/1.1[0m" 200 -
+127.0.0.1 - - [14/Jul/2022 20:21:11] "[37mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/static/assets/img/team/20220506_120252.jpg HTTP/1.1[0m" 200 -
+127.0.0.1 - - [14/Jul/2022 20:21:11] "[37mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/static/assets/img/team/vincentteampic.jpg HTTP/1.1[0m" 200 -
+127.0.0.1 - - [14/Jul/2022 20:21:11] "[37mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/static/assets/img/team/sophia_headshot.png HTTP/1.1[0m" 200 -
+127.0.0.1 - - [14/Jul/2022 20:21:11] "[37mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/static/assets/img/map-image.png HTTP/1.1[0m" 200 -
+127.0.0.1 - - [14/Jul/2022 20:21:11] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/2.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 20:21:11] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/6.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 20:21:11] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/5.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 20:21:11] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/4.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 20:21:12] "[37mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/static/assets/favicon.ico HTTP/1.1[0m" 200 -
+127.0.0.1 - - [14/Jul/2022 20:23:45] "[37mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/ HTTP/1.1[0m" 200 -
+127.0.0.1 - - [14/Jul/2022 20:23:45] "[37mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/static/assets/img/team/evan.jpg HTTP/1.1[0m" 200 -
+127.0.0.1 - - [14/Jul/2022 20:23:45] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/js/scripts.js HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 20:23:45] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/1.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 20:23:45] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/5.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 20:23:45] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/2.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 20:23:46] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/close-icon.svg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 20:23:46] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/6.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 20:23:46] "[37mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/static/assets/img/map-image.png HTTP/1.1[0m" 200 -
+127.0.0.1 - - [14/Jul/2022 20:23:46] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/4.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 20:23:46] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/3.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 20:23:46] "[37mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/static/assets/img/ml_models/Heatmap.html HTTP/1.1[0m" 200 -
+127.0.0.1 - - [14/Jul/2022 20:25:16] "[37mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/ HTTP/1.1[0m" 200 -
+127.0.0.1 - - [14/Jul/2022 20:25:16] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/1.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 20:25:16] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/2.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 20:25:16] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/4.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 20:25:16] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/3.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 20:25:16] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/js/scripts.js HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 20:25:16] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/close-icon.svg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 20:25:16] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/5.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 20:25:16] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/6.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 20:25:28] "[37mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/ HTTP/1.1[0m" 200 -
+127.0.0.1 - - [14/Jul/2022 20:25:28] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/close-icon.svg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 20:25:28] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/js/scripts.js HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 20:25:28] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/2.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 20:25:28] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/4.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 20:25:28] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/1.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 20:25:28] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/3.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 20:25:28] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/5.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 20:25:28] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/6.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 20:26:19] "[37mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/ HTTP/1.1[0m" 200 -
+127.0.0.1 - - [14/Jul/2022 20:26:19] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/js/scripts.js HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 20:26:19] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/4.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 20:26:19] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/close-icon.svg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 20:26:19] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/3.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 20:26:19] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/1.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 20:26:19] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/2.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 20:26:19] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/5.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 20:26:19] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/6.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 20:27:11] "[37mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/ HTTP/1.1[0m" 200 -
+127.0.0.1 - - [14/Jul/2022 20:27:11] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/close-icon.svg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 20:27:11] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/js/scripts.js HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 20:27:11] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/1.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 20:27:11] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/2.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 20:27:11] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/3.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 20:27:11] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/5.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 20:27:11] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/4.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 20:27:11] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/6.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 20:27:14] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/output HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 20:27:36] "[37mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/ HTTP/1.1[0m" 200 -
+127.0.0.1 - - [14/Jul/2022 20:27:36] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/js/scripts.js HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 20:27:36] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/close-icon.svg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 20:27:36] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/2.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 20:27:36] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/1.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 20:27:36] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/3.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 20:27:36] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/5.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 20:27:36] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/4.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 20:27:36] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/6.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 20:29:26] "[37mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/ HTTP/1.1[0m" 200 -
+127.0.0.1 - - [14/Jul/2022 20:29:26] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/2.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 20:29:26] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/1.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 20:29:26] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/js/scripts.js HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 20:29:26] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/close-icon.svg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 20:29:26] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/3.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 20:29:26] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/4.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 20:29:26] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/5.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 20:29:26] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/6.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 20:29:32] "[37mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/ HTTP/1.1[0m" 200 -
+127.0.0.1 - - [14/Jul/2022 20:29:32] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/js/scripts.js HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 20:29:32] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/3.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 20:29:32] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/4.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 20:29:32] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/1.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 20:29:32] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/2.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 20:29:32] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/close-icon.svg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 20:29:32] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/5.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 20:29:32] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/6.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 20:29:50] "[37mPOST /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/ HTTP/1.1[0m" 200 -
+127.0.0.1 - - [14/Jul/2022 20:29:50] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/2.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 20:29:50] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/1.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 20:29:50] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/3.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 20:29:50] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/close-icon.svg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 20:29:50] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/js/scripts.js HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 20:29:50] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/4.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 20:29:50] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/6.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 20:29:50] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/5.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 20:32:58] "[37mPOST /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/ HTTP/1.1[0m" 200 -
+127.0.0.1 - - [14/Jul/2022 20:32:59] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/js/scripts.js HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 20:32:59] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/2.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 20:32:59] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/1.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 20:32:59] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/close-icon.svg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 20:32:59] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/3.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 20:32:59] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/4.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 20:32:59] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/5.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 20:32:59] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/6.jpg HTTP/1.1[0m" 404 -
+python3 main.py
+j 127.0.0.1 - - [14/Jul/2022 20:35:19] "[37mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/ HTTP/1.1[0m" 200 -
+127.0.0.1 - - [14/Jul/2022 20:35:19] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/js/scripts.js HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 20:35:19] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/close-icon.svg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 20:35:19] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/1.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 20:35:19] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/2.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 20:35:19] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/3.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 20:35:19] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/4.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 20:35:19] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/5.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 20:35:19] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/6.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 20:35:19] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/close-icon.svg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 20:35:39] "[37mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/ HTTP/1.1[0m" 200 -
+127.0.0.1 - - [14/Jul/2022 20:35:39] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/close-icon.svg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 20:35:39] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/js/scripts.js HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 20:35:39] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/1.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 20:35:39] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/4.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 20:35:39] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/6.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 20:35:39] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/5.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 20:35:39] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/3.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 20:35:39] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/2.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 20:35:52] "[37mPOST /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/ HTTP/1.1[0m" 200 -
+127.0.0.1 - - [14/Jul/2022 20:35:52] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/1.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 20:35:52] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/2.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 20:35:52] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/3.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 20:35:52] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/5.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 20:35:52] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/4.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 20:35:52] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/close-icon.svg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 20:35:52] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/js/scripts.js HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 20:35:52] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/6.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 20:36:06] "[37mPOST /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/ HTTP/1.1[0m" 200 -
+127.0.0.1 - - [14/Jul/2022 20:36:06] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/1.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 20:36:06] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/2.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 20:36:06] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/3.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 20:36:06] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/close-icon.svg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 20:36:06] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/4.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 20:36:06] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/5.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 20:36:06] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/js/scripts.js HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 20:36:06] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/6.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 20:36:43] "[37mPOST /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/ HTTP/1.1[0m" 200 -
+127.0.0.1 - - [14/Jul/2022 20:36:43] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/close-icon.svg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 20:36:43] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/js/scripts.js HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 20:36:43] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/6.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 20:36:43] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/3.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 20:36:44] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/1.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 20:36:44] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/4.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 20:36:44] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/2.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 20:36:44] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/5.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 20:38:04] "[37mPOST /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/ HTTP/1.1[0m" 200 -
+127.0.0.1 - - [14/Jul/2022 20:38:04] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/close-icon.svg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 20:38:04] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/js/scripts.js HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 20:38:04] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/1.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 20:38:04] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/2.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 20:38:04] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/3.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 20:38:04] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/6.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 20:38:04] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/4.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 20:38:04] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/5.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 20:38:19] "[37mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/ HTTP/1.1[0m" 200 -
+127.0.0.1 - - [14/Jul/2022 20:38:19] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/js/scripts.js HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 20:38:19] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/close-icon.svg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 20:38:19] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/1.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 20:38:19] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/2.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 20:38:19] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/3.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 20:38:19] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/4.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 20:38:19] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/5.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 20:38:19] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/6.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 20:39:31] "[37mPOST /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/ HTTP/1.1[0m" 200 -
+127.0.0.1 - - [14/Jul/2022 20:39:32] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/close-icon.svg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 20:39:32] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/js/scripts.js HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 20:39:32] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/1.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 20:39:32] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/2.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 20:39:32] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/4.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 20:39:32] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/3.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 20:39:32] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/6.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 20:39:32] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/5.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 20:39:32] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/close-icon.svg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 20:39:56] "[37mPOST /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/ HTTP/1.1[0m" 200 -
+127.0.0.1 - - [14/Jul/2022 20:39:56] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/4.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 20:39:56] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/2.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 20:39:56] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/1.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 20:39:56] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/js/scripts.js HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 20:39:56] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/close-icon.svg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 20:39:56] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/3.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 20:39:56] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/5.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 20:39:56] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/6.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 20:39:56] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/close-icon.svg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 20:40:05] "[37mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/ HTTP/1.1[0m" 200 -
+127.0.0.1 - - [14/Jul/2022 20:40:06] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/js/scripts.js HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 20:40:06] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/close-icon.svg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 20:40:06] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/1.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 20:40:06] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/2.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 20:40:06] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/3.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 20:40:06] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/4.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 20:40:06] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/5.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 20:40:06] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/6.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 20:41:39] "[37mPOST /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/ HTTP/1.1[0m" 200 -
+127.0.0.1 - - [14/Jul/2022 20:41:39] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/4.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 20:41:39] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/2.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 20:41:39] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/close-icon.svg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 20:41:39] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/1.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 20:41:39] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/js/scripts.js HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 20:41:39] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/3.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 20:41:39] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/5.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 20:41:39] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/6.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 20:41:53] "[37mPOST /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/ HTTP/1.1[0m" 200 -
+127.0.0.1 - - [14/Jul/2022 20:41:53] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/js/scripts.js HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 20:41:53] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/3.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 20:41:53] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/1.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 20:41:53] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/4.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 20:41:53] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/close-icon.svg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 20:41:53] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/2.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 20:41:53] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/5.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 20:41:53] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/6.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 20:42:43] "[37mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/ HTTP/1.1[0m" 200 -
+127.0.0.1 - - [14/Jul/2022 20:42:44] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/js/scripts.js HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 20:42:44] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/close-icon.svg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 20:42:44] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/2.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 20:42:44] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/1.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 20:42:44] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/3.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 20:42:44] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/4.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 20:42:44] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/5.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 20:42:44] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/6.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 20:45:49] "[37mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/ HTTP/1.1[0m" 200 -
+127.0.0.1 - - [14/Jul/2022 20:45:49] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/close-icon.svg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 20:45:49] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/js/scripts.js HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 20:45:49] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/4.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 20:45:49] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/6.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 20:45:50] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/3.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 20:45:50] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/1.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 20:45:50] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/5.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 20:45:50] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/2.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 20:45:58] "[37mPOST /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/ HTTP/1.1[0m" 200 -
+127.0.0.1 - - [14/Jul/2022 20:45:58] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/1.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 20:45:58] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/3.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 20:45:58] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/2.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 20:45:58] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/4.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 20:45:58] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/5.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 20:45:58] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/close-icon.svg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 20:45:58] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/js/scripts.js HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 20:45:58] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/6.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 20:48:45] "[37mPOST /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/ HTTP/1.1[0m" 200 -
+127.0.0.1 - - [14/Jul/2022 20:48:45] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/js/scripts.js HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 20:48:45] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/close-icon.svg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 20:48:45] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/1.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 20:48:45] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/2.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 20:48:45] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/3.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 20:48:45] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/4.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 20:48:45] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/5.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 20:48:45] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/6.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 20:48:45] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/close-icon.svg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 20:50:36] "[37mPOST /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/ HTTP/1.1[0m" 200 -
+127.0.0.1 - - [14/Jul/2022 20:50:36] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/js/scripts.js HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 20:50:36] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/close-icon.svg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 20:50:36] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/1.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 20:50:36] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/2.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 20:50:36] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/4.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 20:50:36] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/5.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 20:50:36] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/6.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 20:50:36] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/3.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 20:51:49] "[37mPOST /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/ HTTP/1.1[0m" 200 -
+127.0.0.1 - - [14/Jul/2022 20:51:49] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/js/scripts.js HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 20:51:49] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/close-icon.svg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 20:51:49] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/1.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 20:51:49] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/2.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 20:51:49] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/5.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 20:51:49] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/4.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 20:51:49] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/3.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 20:51:49] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/6.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 20:51:49] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/close-icon.svg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 20:52:50] "[37mPOST /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/ HTTP/1.1[0m" 200 -
+127.0.0.1 - - [14/Jul/2022 20:52:50] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/close-icon.svg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 20:52:50] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/js/scripts.js HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 20:52:50] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/4.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 20:52:50] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/2.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 20:52:50] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/1.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 20:52:50] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/3.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 20:52:50] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/6.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 20:52:50] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/5.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 20:52:50] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/close-icon.svg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 20:55:28] "[37mPOST /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/ HTTP/1.1[0m" 200 -
+127.0.0.1 - - [14/Jul/2022 20:55:28] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/close-icon.svg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 20:55:28] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/js/scripts.js HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 20:55:28] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/1.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 20:55:28] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/2.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 20:55:28] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/5.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 20:55:28] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/4.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 20:55:28] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/6.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 20:55:28] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/3.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 20:55:28] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/close-icon.svg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 20:56:36] "[37mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/ HTTP/1.1[0m" 200 -
+127.0.0.1 - - [14/Jul/2022 20:56:36] "[37mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/static/css/styles.css HTTP/1.1[0m" 200 -
+127.0.0.1 - - [14/Jul/2022 20:56:36] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/js/scripts.js HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 20:56:36] "[37mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/static/assets/img/team/20220506_120252.jpg HTTP/1.1[0m" 200 -
+127.0.0.1 - - [14/Jul/2022 20:56:36] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/1.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 20:56:36] "[37mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/static/assets/img/Histofig.jpg HTTP/1.1[0m" 200 -
+127.0.0.1 - - [14/Jul/2022 20:56:36] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/4.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 20:56:36] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/6.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 20:56:36] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/5.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 20:56:36] "[37mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/static/assets/img/ml_models/xgb_ex_vis.png HTTP/1.1[0m" 200 -
+127.0.0.1 - - [14/Jul/2022 20:56:36] "[37mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/static/assets/img/team/hikari.jpg HTTP/1.1[0m" 200 -
+127.0.0.1 - - [14/Jul/2022 20:56:36] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/close-icon.svg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 20:56:36] "[37mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/static/assets/img/team/Team%20Pic%20-%20Danh.jpg HTTP/1.1[0m" 200 -
+127.0.0.1 - - [14/Jul/2022 20:56:36] "[37mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/static/assets/img/ml_models/ScatterplotsVisualizations.html HTTP/1.1[0m" 200 -
+127.0.0.1 - - [14/Jul/2022 20:56:36] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/js/scripts.js HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 20:56:36] "[37mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/static/assets/img/heart_disease_background.jpg HTTP/1.1[0m" 200 -
+127.0.0.1 - - [14/Jul/2022 20:56:36] "[37mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/static/assets/img/ml_models/Heatmap.html HTTP/1.1[0m" 200 -
+127.0.0.1 - - [14/Jul/2022 20:56:36] "[37mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/static/assets/img/ml_models/xgb_cm.html HTTP/1.1[0m" 200 -
+127.0.0.1 - - [14/Jul/2022 20:56:37] "[37mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/static/assets/img/ml_models/rfc_fig2.html HTTP/1.1[0m" 200 -
+127.0.0.1 - - [14/Jul/2022 20:56:37] "[37mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/static/assets/img/ml_models/KNN_file.html HTTP/1.1[0m" 200 -
+127.0.0.1 - - [14/Jul/2022 20:56:37] "[37mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/static/assets/img/ai_camp_logo.png HTTP/1.1[0m" 200 -
+127.0.0.1 - - [14/Jul/2022 20:56:37] "[37mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/static/assets/img/team/vincentteampic.jpg HTTP/1.1[0m" 200 -
+127.0.0.1 - - [14/Jul/2022 20:56:37] "[37mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/static/assets/img/team/sophia_headshot.png HTTP/1.1[0m" 200 -
+127.0.0.1 - - [14/Jul/2022 20:56:37] "[37mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/static/assets/img/team/evan.jpg HTTP/1.1[0m" 200 -
+127.0.0.1 - - [14/Jul/2022 20:56:37] "[37mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/static/assets/img/map-image.png HTTP/1.1[0m" 200 -
+127.0.0.1 - - [14/Jul/2022 20:56:37] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/3.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 20:56:37] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/2.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 20:56:38] "[37mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/static/assets/favicon.ico HTTP/1.1[0m" 200 -
+127.0.0.1 - - [14/Jul/2022 20:56:56] "[37mPOST /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/ HTTP/1.1[0m" 200 -
+127.0.0.1 - - [14/Jul/2022 20:56:57] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/js/scripts.js HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 20:56:57] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/3.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 20:56:57] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/2.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 20:56:57] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/1.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 20:56:57] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/close-icon.svg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 20:56:57] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/6.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 20:56:57] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/4.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 20:56:57] "[37mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/static/assets/img/ml_models/ScatterplotsVisualizations.html HTTP/1.1[0m" 200 -
+127.0.0.1 - - [14/Jul/2022 20:56:57] "[37mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/static/assets/img/ml_models/Heatmap.html HTTP/1.1[0m" 200 -
+127.0.0.1 - - [14/Jul/2022 20:56:57] "[37mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/static/assets/img/ml_models/xgb_cm.html HTTP/1.1[0m" 200 -
+127.0.0.1 - - [14/Jul/2022 20:56:57] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/5.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 20:56:57] "[37mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/static/assets/img/ml_models/rfc_fig2.html HTTP/1.1[0m" 200 -
+127.0.0.1 - - [14/Jul/2022 20:56:57] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/js/scripts.js HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 20:56:57] "[37mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/static/assets/img/ml_models/KNN_file.html HTTP/1.1[0m" 200 -
+127.0.0.1 - - [14/Jul/2022 20:56:57] "[37mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/static/assets/favicon.ico HTTP/1.1[0m" 200 -
+127.0.0.1 - - [14/Jul/2022 20:57:05] "[37mPOST /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/ HTTP/1.1[0m" 200 -
+127.0.0.1 - - [14/Jul/2022 20:57:05] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/4.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 20:57:05] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/2.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 20:57:05] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/js/scripts.js HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 20:57:05] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/1.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 20:57:05] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/3.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 20:57:05] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/close-icon.svg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 20:57:05] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/5.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 20:57:05] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/6.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 20:57:31] "[37mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/ HTTP/1.1[0m" 200 -
+127.0.0.1 - - [14/Jul/2022 20:57:32] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/close-icon.svg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 20:57:32] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/js/scripts.js HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 20:57:32] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/2.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 20:57:32] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/3.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 20:57:32] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/1.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 20:57:32] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/4.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 20:57:32] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/6.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 20:57:32] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/5.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 20:57:45] "[37mPOST /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/ HTTP/1.1[0m" 200 -
+127.0.0.1 - - [14/Jul/2022 20:57:46] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/close-icon.svg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 20:57:46] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/1.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 20:57:46] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/4.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 20:57:46] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/js/scripts.js HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 20:57:46] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/2.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 20:57:46] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/3.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 20:57:46] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/5.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 20:57:46] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/6.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 20:58:00] "[37mPOST /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/ HTTP/1.1[0m" 200 -
+127.0.0.1 - - [14/Jul/2022 20:58:00] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/1.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 20:58:00] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/2.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 20:58:00] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/3.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 20:58:00] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/4.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 20:58:00] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/close-icon.svg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 20:58:00] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/5.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 20:58:00] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/6.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 20:58:00] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/js/scripts.js HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 20:58:00] "[37mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/static/assets/img/ml_models/xgb_cm.html HTTP/1.1[0m" 200 -
+127.0.0.1 - - [14/Jul/2022 20:58:00] "[37mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/static/assets/img/ml_models/ScatterplotsVisualizations.html HTTP/1.1[0m" 200 -
+127.0.0.1 - - [14/Jul/2022 20:58:00] "[37mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/static/assets/img/ml_models/rfc_fig2.html HTTP/1.1[0m" 200 -
+127.0.0.1 - - [14/Jul/2022 20:58:00] "[37mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/static/assets/img/ml_models/Heatmap.html HTTP/1.1[0m" 200 -
+127.0.0.1 - - [14/Jul/2022 20:58:00] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/close-icon.svg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 20:58:00] "[37mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/static/assets/img/ml_models/KNN_file.html HTTP/1.1[0m" 200 -
+127.0.0.1 - - [14/Jul/2022 20:58:01] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/1.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 20:58:01] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/2.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 20:58:01] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/3.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 20:58:01] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/4.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 20:58:01] "[37mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/static/assets/favicon.ico HTTP/1.1[0m" 200 -
+127.0.0.1 - - [14/Jul/2022 21:00:57] "[37mPOST /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/ HTTP/1.1[0m" 200 -
+127.0.0.1 - - [14/Jul/2022 21:00:57] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/1.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 21:00:57] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/close-icon.svg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 21:00:57] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/2.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 21:00:57] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/js/scripts.js HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 21:00:57] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/3.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 21:00:57] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/4.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 21:00:57] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/5.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 21:00:57] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/6.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 21:01:00] "[37mPOST /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/ HTTP/1.1[0m" 200 -
+127.0.0.1 - - [14/Jul/2022 21:01:00] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/close-icon.svg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 21:01:00] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/js/scripts.js HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 21:01:00] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/1.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 21:01:00] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/2.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 21:01:00] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/3.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 21:01:00] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/6.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 21:01:00] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/4.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 21:01:00] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/5.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 21:01:00] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/close-icon.svg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 21:01:07] "[37mPOST /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/ HTTP/1.1[0m" 200 -
+127.0.0.1 - - [14/Jul/2022 21:01:07] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/close-icon.svg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 21:01:07] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/1.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 21:01:07] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/js/scripts.js HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 21:01:07] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/4.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 21:01:07] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/2.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 21:01:07] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/5.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 21:01:07] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/3.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 21:01:07] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/6.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 21:01:07] "[37mPOST /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/ HTTP/1.1[0m" 200 -
+127.0.0.1 - - [14/Jul/2022 21:01:07] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/close-icon.svg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 21:01:07] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/js/scripts.js HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 21:01:07] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/close-icon.svg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 21:01:07] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/2.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 21:01:07] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/4.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 21:01:07] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/1.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 21:01:07] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/3.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 21:01:07] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/5.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 21:01:07] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/6.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 21:01:25] "[37mPOST /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/ HTTP/1.1[0m" 200 -
+127.0.0.1 - - [14/Jul/2022 21:01:25] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/close-icon.svg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 21:01:25] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/1.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 21:01:25] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/5.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 21:01:25] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/4.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 21:01:25] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/js/scripts.js HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 21:01:25] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/3.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 21:01:25] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/2.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 21:01:25] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/6.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 21:01:25] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/close-icon.svg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 21:01:40] "[37mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/ HTTP/1.1[0m" 200 -
+127.0.0.1 - - [14/Jul/2022 21:01:40] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/js/scripts.js HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 21:01:40] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/close-icon.svg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 21:01:40] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/1.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 21:01:40] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/3.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 21:01:40] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/2.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 21:01:40] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/4.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 21:01:40] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/5.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 21:01:40] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/6.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 21:01:40] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/close-icon.svg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 21:08:24] "[37mPOST /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/ HTTP/1.1[0m" 200 -
+127.0.0.1 - - [14/Jul/2022 21:08:25] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/js/scripts.js HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 21:08:25] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/close-icon.svg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 21:08:25] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/1.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 21:08:25] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/2.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 21:08:25] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/3.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 21:08:25] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/4.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 21:08:25] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/5.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 21:08:25] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/6.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 21:08:25] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/close-icon.svg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 21:08:45] "[37mPOST /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/ HTTP/1.1[0m" 200 -
+127.0.0.1 - - [14/Jul/2022 21:08:45] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/close-icon.svg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 21:08:45] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/js/scripts.js HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 21:08:45] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/1.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 21:08:45] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/2.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 21:08:45] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/3.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 21:08:45] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/4.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 21:08:45] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/6.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 21:08:45] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/5.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 21:08:45] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/close-icon.svg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 21:09:59] "[37mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/ HTTP/1.1[0m" 200 -
+127.0.0.1 - - [14/Jul/2022 21:09:59] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/close-icon.svg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 21:09:59] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/js/scripts.js HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 21:09:59] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/4.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 21:09:59] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/5.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 21:09:59] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/6.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 21:09:59] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/3.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 21:09:59] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/1.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 21:09:59] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/2.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 21:10:08] "[37mPOST /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/ HTTP/1.1[0m" 200 -
+127.0.0.1 - - [14/Jul/2022 21:10:08] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/3.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 21:10:08] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/1.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 21:10:08] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/4.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 21:10:08] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/2.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 21:10:08] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/5.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 21:10:08] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/close-icon.svg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 21:10:08] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/js/scripts.js HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 21:10:08] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/6.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 21:10:15] "[37mPOST /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/ HTTP/1.1[0m" 200 -
+127.0.0.1 - - [14/Jul/2022 21:10:15] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/3.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 21:10:15] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/2.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 21:10:15] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/4.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 21:10:15] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/1.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 21:10:15] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/close-icon.svg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 21:10:15] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/5.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 21:10:15] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/js/scripts.js HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 21:10:15] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/6.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 21:13:50] "[37mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/ HTTP/1.1[0m" 200 -
+127.0.0.1 - - [14/Jul/2022 21:13:51] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/3.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 21:13:51] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/1.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 21:13:51] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/js/scripts.js HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 21:13:51] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/4.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 21:13:51] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/close-icon.svg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 21:13:51] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/2.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 21:13:51] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/5.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 21:13:51] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/6.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 21:15:17] "[37mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/ HTTP/1.1[0m" 200 -
+127.0.0.1 - - [14/Jul/2022 21:15:17] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/2.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 21:15:17] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/js/scripts.js HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 21:15:17] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/close-icon.svg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 21:15:17] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/1.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 21:15:17] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/3.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 21:15:17] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/4.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 21:15:17] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/5.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 21:15:18] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/6.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 21:15:40] "[37mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/ HTTP/1.1[0m" 200 -
+127.0.0.1 - - [14/Jul/2022 21:15:40] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/js/scripts.js HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 21:15:40] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/2.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 21:15:40] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/3.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 21:15:40] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/4.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 21:15:40] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/close-icon.svg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 21:15:40] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/1.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 21:15:40] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/5.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 21:15:40] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/6.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 21:19:36] "[37mPOST /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/ HTTP/1.1[0m" 200 -
+127.0.0.1 - - [14/Jul/2022 21:19:36] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/close-icon.svg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 21:19:36] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/1.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 21:19:36] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/js/scripts.js HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 21:19:36] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/2.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 21:19:36] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/4.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 21:19:36] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/6.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 21:19:36] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/3.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 21:19:36] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/5.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 21:21:06] "[37mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/ HTTP/1.1[0m" 200 -
+127.0.0.1 - - [14/Jul/2022 21:21:07] "[37mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/static/css/styles.css HTTP/1.1[0m" 200 -
+127.0.0.1 - - [14/Jul/2022 21:21:07] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/js/scripts.js HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 21:21:07] "[37mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/static/assets/img/ai_camp_logo.png HTTP/1.1[0m" 200 -
+127.0.0.1 - - [14/Jul/2022 21:21:07] "[37mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/static/assets/img/team/vincentteampic.jpg HTTP/1.1[0m" 200 -
+127.0.0.1 - - [14/Jul/2022 21:21:07] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/5.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 21:21:07] "[37mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/static/assets/img/team/hikari.jpg HTTP/1.1[0m" 200 -
+127.0.0.1 - - [14/Jul/2022 21:21:07] "[37mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/static/assets/img/team/sophia_headshot.png HTTP/1.1[0m" 200 -
+127.0.0.1 - - [14/Jul/2022 21:21:07] "[37mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/static/assets/img/team/evan.jpg HTTP/1.1[0m" 200 -
+127.0.0.1 - - [14/Jul/2022 21:21:07] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/6.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 21:21:07] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/1.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 21:21:07] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/2.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 21:21:07] "[37mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/static/assets/img/team/Team%20Pic%20-%20Danh.jpg HTTP/1.1[0m" 200 -
+127.0.0.1 - - [14/Jul/2022 21:21:07] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/3.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 21:21:07] "[37mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/static/assets/img/ml_models/xgb_ex_vis.png HTTP/1.1[0m" 200 -
+127.0.0.1 - - [14/Jul/2022 21:21:07] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/close-icon.svg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 21:21:07] "[37mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/static/assets/img/team/20220506_120252.jpg HTTP/1.1[0m" 200 -
+127.0.0.1 - - [14/Jul/2022 21:21:07] "[37mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/static/assets/img/Histofig.jpg HTTP/1.1[0m" 200 -
+127.0.0.1 - - [14/Jul/2022 21:21:07] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/4.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 21:21:07] "[37mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/static/assets/img/ml_models/ScatterplotsVisualizations.html HTTP/1.1[0m" 200 -
+127.0.0.1 - - [14/Jul/2022 21:21:07] "[37mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/static/assets/img/ml_models/Heatmap.html HTTP/1.1[0m" 200 -
+127.0.0.1 - - [14/Jul/2022 21:21:07] "[37mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/static/assets/img/heart_disease_background.jpg HTTP/1.1[0m" 200 -
+127.0.0.1 - - [14/Jul/2022 21:21:07] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/js/scripts.js HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 21:21:07] "[37mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/static/assets/img/ml_models/rfc_fig2.html HTTP/1.1[0m" 200 -
+127.0.0.1 - - [14/Jul/2022 21:21:07] "[37mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/static/assets/img/ml_models/xgb_cm.html HTTP/1.1[0m" 200 -
+127.0.0.1 - - [14/Jul/2022 21:21:08] "[37mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/static/assets/img/ml_models/KNN_file.html HTTP/1.1[0m" 200 -
+127.0.0.1 - - [14/Jul/2022 21:21:08] "[37mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/static/assets/img/map-image.png HTTP/1.1[0m" 200 -
+127.0.0.1 - - [14/Jul/2022 21:21:08] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/5.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 21:21:08] "[37mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/static/assets/favicon.ico HTTP/1.1[0m" 200 -
+127.0.0.1 - - [14/Jul/2022 21:21:19] "[37mPOST /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/ HTTP/1.1[0m" 200 -
+127.0.0.1 - - [14/Jul/2022 21:21:19] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/close-icon.svg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 21:21:19] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/1.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 21:21:19] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/3.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 21:21:19] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/5.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 21:21:19] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/4.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 21:21:19] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/2.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 21:21:19] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/6.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 21:21:19] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/js/scripts.js HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 21:21:19] "[37mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/static/assets/img/ml_models/ScatterplotsVisualizations.html HTTP/1.1[0m" 200 -
+127.0.0.1 - - [14/Jul/2022 21:21:19] "[37mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/static/assets/img/ml_models/Heatmap.html HTTP/1.1[0m" 200 -
+127.0.0.1 - - [14/Jul/2022 21:21:19] "[37mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/static/assets/img/ml_models/rfc_fig2.html HTTP/1.1[0m" 200 -
+127.0.0.1 - - [14/Jul/2022 21:21:19] "[37mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/static/assets/img/ml_models/xgb_cm.html HTTP/1.1[0m" 200 -
+127.0.0.1 - - [14/Jul/2022 21:21:19] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/close-icon.svg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 21:21:19] "[37mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/static/assets/img/ml_models/KNN_file.html HTTP/1.1[0m" 200 -
+127.0.0.1 - - [14/Jul/2022 21:21:19] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/js/scripts.js HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 21:21:20] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/1.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 21:21:20] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/2.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 21:21:20] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/3.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 21:21:20] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/4.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 21:21:20] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/5.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 21:21:20] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/6.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 21:21:20] "[37mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/static/assets/favicon.ico HTTP/1.1[0m" 200 -
+127.0.0.1 - - [14/Jul/2022 21:23:18] "[37mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/ HTTP/1.1[0m" 200 -
+127.0.0.1 - - [14/Jul/2022 21:23:18] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/close-icon.svg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 21:23:18] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/js/scripts.js HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 21:23:18] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/1.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 21:23:18] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/2.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 21:23:18] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/4.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 21:23:18] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/3.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 21:23:18] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/5.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 21:23:18] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/6.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 21:23:25] "[37mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/ HTTP/1.1[0m" 200 -
+127.0.0.1 - - [14/Jul/2022 21:23:25] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/js/scripts.js HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 21:23:25] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/4.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 21:23:25] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/3.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 21:23:25] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/close-icon.svg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 21:23:25] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/2.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 21:23:25] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/1.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 21:23:25] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/5.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 21:23:25] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/6.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 21:24:03] "[37mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/ HTTP/1.1[0m" 200 -
+127.0.0.1 - - [14/Jul/2022 21:24:03] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/js/scripts.js HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 21:24:03] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/4.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 21:24:03] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/3.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 21:24:03] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/1.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 21:24:03] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/close-icon.svg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 21:24:03] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/2.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 21:24:03] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/5.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 21:24:03] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/6.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 21:24:20] "[37mPOST /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/ HTTP/1.1[0m" 200 -
+127.0.0.1 - - [14/Jul/2022 21:24:20] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/js/scripts.js HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 21:24:20] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/2.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 21:24:20] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/close-icon.svg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 21:24:20] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/1.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 21:24:20] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/3.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 21:24:20] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/4.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 21:24:20] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/5.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 21:24:20] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/6.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 21:40:50] "[37mPOST /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/ HTTP/1.1[0m" 200 -
+127.0.0.1 - - [14/Jul/2022 21:40:51] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/js/scripts.js HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 21:40:51] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/1.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 21:40:51] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/3.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 21:40:51] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/close-icon.svg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 21:40:51] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/2.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 21:40:51] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/4.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 21:40:51] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/5.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [14/Jul/2022 21:40:51] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/assets/img/portfolio/6.jpg HTTP/1.1[0m" 404 -
+(base) ]0;~/heartdiseasepredictor/app/templates[01;34m~/heartdiseasepredictor/app/templates[00m$ [K(base) ]0;~/heartdiseasepredictor/app/templates[01;34m~/heartdiseasepredictor/app/templates[00m$ cd
+(base) ]0;~[01;34m~[00m$ cd heartdisease[K[K[Kasepredictor
+(base) ]0;~/heartdiseasepredictor[01;34m~/heartdiseasepredictor[00m$ py[K[Kcd app
+(base) ]0;~/heartdiseasepredictor/app[01;34m~/heartdiseasepredictor/app[00m$ python3 main.py
+Try to open
+
+    https://cocalc21.ai-camp.dev//789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/
+
+
+ * Serving Flask app "main" (lazy loading)
+ * Environment: production
+[31m   WARNING: This is a development server. Do not use it in a production deployment.[0m
+[2m   Use a production WSGI server instead.[0m
+ * Debug mode: on
+ * Running on http://0.0.0.0:12345/ (Press CTRL+C to quit)
+ * Restarting with stat
+Try to open
+
+    https://cocalc21.ai-camp.dev//789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/
+
+
+ * Debugger is active!
+ * Debugger PIN: 289-805-344
+127.0.0.1 - - [15/Jul/2022 17:20:53] "[37mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/ HTTP/1.1[0m" 200 -
+127.0.0.1 - - [15/Jul/2022 17:20:53] "[37mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/static/css/styles.css HTTP/1.1[0m" 200 -
+127.0.0.1 - - [15/Jul/2022 17:20:53] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/js/scripts.js HTTP/1.1[0m" 404 -
+127.0.0.1 - - [15/Jul/2022 17:20:53] "[36mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/static/assets/img/ml_models/xgb_ex_vis.png HTTP/1.1[0m" 304 -
+127.0.0.1 - - [15/Jul/2022 17:20:53] "[36mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/static/assets/img/Histofig.jpg HTTP/1.1[0m" 304 -
+127.0.0.1 - - [15/Jul/2022 17:20:53] "[36mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/static/assets/img/team/20220506_120252.jpg HTTP/1.1[0m" 304 -
+127.0.0.1 - - [15/Jul/2022 17:20:53] "[36mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/static/assets/img/ai_camp_logo.png HTTP/1.1[0m" 304 -
+127.0.0.1 - - [15/Jul/2022 17:20:53] "[36mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/static/assets/img/ml_models/ScatterplotsVisualizations.html HTTP/1.1[0m" 304 -
+127.0.0.1 - - [15/Jul/2022 17:20:53] "[36mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/static/assets/img/ml_models/Heatmap.html HTTP/1.1[0m" 304 -
+127.0.0.1 - - [15/Jul/2022 17:20:53] "[36mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/static/assets/img/ml_models/KNN_file.html HTTP/1.1[0m" 304 -
+127.0.0.1 - - [15/Jul/2022 17:20:53] "[36mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/static/assets/img/ml_models/xgb_cm.html HTTP/1.1[0m" 304 -
+127.0.0.1 - - [15/Jul/2022 17:20:53] "[36mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/static/assets/img/team/vincentteampic.jpg HTTP/1.1[0m" 304 -
+127.0.0.1 - - [15/Jul/2022 17:20:53] "[36mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/static/assets/img/ml_models/rfc_fig2.html HTTP/1.1[0m" 304 -
+127.0.0.1 - - [15/Jul/2022 17:20:53] "[36mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/static/assets/img/team/hikari.jpg HTTP/1.1[0m" 304 -
+127.0.0.1 - - [15/Jul/2022 17:20:53] "[36mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/static/assets/img/team/Team%20Pic%20-%20Danh.jpg HTTP/1.1[0m" 304 -
+127.0.0.1 - - [15/Jul/2022 17:20:53] "[36mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/static/assets/img/team/sophia_headshot.png HTTP/1.1[0m" 304 -
+127.0.0.1 - - [15/Jul/2022 17:20:53] "[36mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/static/assets/img/team/evan.jpg HTTP/1.1[0m" 304 -
+127.0.0.1 - - [15/Jul/2022 17:20:53] "[36mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/static/assets/img/heart_disease_background.jpg HTTP/1.1[0m" 304 -
+127.0.0.1 - - [15/Jul/2022 17:20:53] "[36mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/static/assets/img/map-image.png HTTP/1.1[0m" 304 -
+127.0.0.1 - - [15/Jul/2022 17:23:18] "[37mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/ HTTP/1.1[0m" 200 -
+127.0.0.1 - - [15/Jul/2022 17:23:18] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/js/scripts.js HTTP/1.1[0m" 404 -
+127.0.0.1 - - [15/Jul/2022 17:23:20] "[36mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/static/assets/favicon.ico HTTP/1.1[0m" 304 -
+(base) ]0;~/heartdiseasepredictor/app/templates[01;34m~/heartdiseasepredictor/app/templates[00m$ cd ..
+(base) ]0;~/heartdiseasepredictor/app[01;34m~/heartdiseasepredictor/app[00m$ main[K[K[K[Kpython3 main.py
+Try to open
+
+    https://cocalc21.ai-camp.dev//789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/
+
+
+ * Serving Flask app "main" (lazy loading)
+ * Environment: production
+[31m   WARNING: This is a development server. Do not use it in a production deployment.[0m
+[2m   Use a production WSGI server instead.[0m
+ * Debug mode: on
+ * Running on http://0.0.0.0:12345/ (Press CTRL+C to quit)
+ * Restarting with stat
+Try to open
+
+    https://cocalc21.ai-camp.dev//789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/
+
+
+ * Debugger is active!
+ * Debugger PIN: 289-805-344
+127.0.0.1 - - [15/Jul/2022 19:51:05] "[37mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/ HTTP/1.1[0m" 200 -
+127.0.0.1 - - [15/Jul/2022 19:51:05] "[33mGET /789aa3e5-de8c-43a9-9498-6199f18e94f7/port/12345/js/scripts.js HTTP/1.1[0m" 404 -
